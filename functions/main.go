@@ -52,6 +52,5 @@ func sum(numbers ...int) int {
 	for _, value := range numbers {
 		sum += value
 	}
-
 	return sum
 }
